@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
   <img src="https://img.shields.io/github/license/1lusca/signos-do-zodiaco.svg">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
   <img src="https://img.shields.io/github/followers/1lusca.svg?style=social&label=Follow&maxAge=2592000">
 </p>
 
